@@ -8,5 +8,7 @@
     <string name="station">駅</string>
     <string name="school">学校</string>
     <string name="always">いつもの場所</string>
-    <string name="mail_to">taiki_k07@outlook.jp</string>
+    <string name="mail_to1">taiki_k07@outlook.jp</string>
+    <string name="mail_to2">taiki_k08@outlook.jp</string>
+    <string name="mail_to3">taiki_k09@outlook.jp</string>
 </resources>
